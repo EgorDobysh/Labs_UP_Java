@@ -1,0 +1,17 @@
+commit 0b71f259e9dade233c8e27f2f11265fab595825d (HEAD - lab1)
+Author EgorDobysh proegorka11@gmail.com
+Date   Tue Feb 18 120128 2020 +0300
+
+    add status.txt
+
+commit 2b82990b434b50afb3684c416c19485e2d9a3b22
+Author EgorDobysh proegorka11@gmail.com
+Date   Tue Feb 18 120011 2020 +0300
+
+    add .gitignore
+
+commit 1175d5d73352cae75ea1615458f32cc96dd5aece (originmaster, master)
+Author EgorDobysh proegorka11@gmail.com
+Date   Tue Feb 18 114031 2020 +0300
+
+    first commit
